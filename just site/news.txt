@@ -1,0 +1,41 @@
+<body>
+    <bold><strong>Dinner Time</strong></bold>
+    <div>
+        <strong> Dinner Time - Dinner Time is the proggram that auto blocks kid's phone when it needed so i don't want to try explain you what's Programm named Dinner time. So We have + es and -es of this program . And now i want to count +es and -es first plus
+            is Parent's and kid's will spend more time together and first minus is can appear a lot of arguments between Parent's and kid's because they blocked his/her phone. And That's all . thank's to everyone for attention!</strong>
+    </div>
+
+    <i onclick="myFunction(this)" class="fa fa-heart-o"></i>
+    <script>
+        function myFunction(x) {
+            x.classList.toggle("fa fa-heart");
+        }
+    </script>
+
+
+    <i onclick="myFunction(this)" class="fa fa-thumbs-up"></i>
+    <i class="fa fa-gratipay" aria-hidden="true"></i>
+
+    <bold><strong>Dinner Time</strong></bold>
+    <div><strong>Dinner Time - Dinner Time is the proggram that auto blocks kid's phone when it needed so i don't want to try explain you what's Programm named Dinner time. So We have + es and -es of this program . And now i want to count +es and
+        -es first plus is Parent's and kid's will spend more time together and first minus is can appear a lot of arguments between Parent's and kid's because they blocked his/her phone. And That's all . thank's to everyone for attention!</strong></div>
+    <i onclick="myFunction(this)" class="fa fa-heart-o"></i>
+    <script>
+        function myFunction(x) {
+            x.classList.toggle("fa fa-heart");
+        }
+    </script>
+
+
+
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Use an element to toggle between a like/dislike icon -->
+    <i onclick="myFunction(this)" class="fa fa-thumbs-up"></i>
+    <i class="fa fa-gratipay" aria-hidden="true"></i>
+    <script>
+        function myFunction(x) {
+            x.classList.toggle("fa fa-thumbs-down");
+        }
+    </script>
